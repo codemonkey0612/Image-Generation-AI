@@ -163,3 +163,6 @@ package-lock.json
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
 .env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
